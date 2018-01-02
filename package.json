@@ -1,0 +1,22 @@
+{
+  "name": "mc-ping-promise",
+  "version": "1.0.0",
+  "description": "A promise based Minecraft ping library.",
+  "main": "lib/ping.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Randomfish132/mc-ping-promise.git"
+  },
+  "author": "Griffin T",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Randomfish132/mc-ping-promise/issues"
+  },
+  "homepage": "https://github.com/Randomfish132/mc-ping-promise#readme"
+}
